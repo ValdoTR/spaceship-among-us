@@ -348,7 +348,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Fun scpaeship"
+         "value":"Yes you can organize your event in this space station.\nBut beware, I see you coming ... here there is no question of reporting corpses or voting to expel an impostor and the only emergency meeting will be to find out who has an extra bathing suit."
         }, 
         {
          "name":"mapImage",
@@ -356,9 +356,14 @@
          "value":"map.png"
         }, 
         {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/valdotr.github.io\/spaceship-among-us\/map.json"
+        }, 
+        {
          "name":"mapName",
          "type":"string",
-         "value":"Space station"
+         "value":"Space station #amongus"
         }, 
         {
          "name":"script",
