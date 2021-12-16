@@ -343,7 +343,7 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"CC-BY-SA 3.0:\n - http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/\n - See the file: cc-by-sa-3.0.txt\nGNU GPL 3.0:\n - http:\/\/www.gnu.org\/licenses\/gpl-3.0.html\n - See the file: gpl-3.0.txt\n\nAssets from: workadventure@thecodingmachine.com, Mullana (cc@mullana.de) CC-0, Pixabay, Pexels  "
+         "value":"Credits: Sebastian Arnold https:\/\/www.linkedin.com\/in\/sebastian-b-arnold\/ \nLicence: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
         }, 
         {
          "name":"mapDescription",
