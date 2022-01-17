@@ -343,7 +343,7 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"Credits: Sebastian Arnold https:\/\/www.linkedin.com\/in\/sebastian-b-arnold\/ \nLicence: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
+         "value":"CC-BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)"
         }, 
         {
          "name":"mapDescription",
